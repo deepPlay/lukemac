@@ -1,0 +1,157 @@
+Content
+Styling
+javascript styling (for lightboxes)
+Responsiveness
+- desktop
+- iPhone
+- iPad mini
+- iPad
+Logo design
+Welcome animation
+Copy
+Contact form
+'go down' button
+sticky menu (with targets)
+CV as PDF
+tiles linking to work
+filtering on tiles
+'show more' button
+dribbble content
+codepen content
+copywriting content
+publish online
+
+---
+
+[logo]
+Luke Mac
+Web designer
+Home
+About
+Work
+Skills
+Contact
+Blog
+
+About
+
+I'm a designer. I don't mean that I wear black rimmed glasses and tight jeans, or only listen to music you've never heard of with huge headphones, or spend all weekend loitering in a cafe with my macbook. I mean that I solve problems using 'design thinking', an approach comprising rationality, creativity and empathy for the context. In practical terms, this means a strong focus on practical solutions, fearless exploration of ideas, and a lot of communication in every language at one's disposal: words, pictures, numbers, metaphor. After all, real-world projects are usually so-called 'wicked problems' with evolving or ill-defined criteria - and design thinking is definitely more real-world than theory; more hard hat than lab coat; more Lego than Barbie. Asking the right questions becomes part of the answer.
+I'm Luke Mac. My jeans fit me well and I can't hold my coffee. Let's make something wicked.
+
+Work
+
+KPMG
+Problem 
+What the hell is Business Intelligence and Analytics? Stephen at the Sydney office was tasked with succinctly explaining what his new, verbosely named department was and what exactly they did in a presentation to thirty colleagues and partners. He had commissioned an artist to render an info-graphic depicting the department's role as a highway map, but it was still confusing.
+Solution
+We brainstormed a new metaphor: BIA as a tree and their outcomes as fruit. The final solution was an interactive image with multiple case studies, which was used during the presentation and made accessible to all employees via the office intranet.
+Results
+todo
+Skills
+Ai html5 css jquery
+Random fact
+In keeping with the natural theme, data sources were represented as soil and business partners, who assist in sanitising data, were shown as earthworms. Business partners who not available for comment on how they felt about this comparison
+
+Strativity
+Problem
+James interviews potential clients regarding their business processes, discusses how they can be engineered for the better, and illustrates user experience timelines of the two. Sadly, he can't draw.
+Solution
+Beginning with sketches and clarifications from James et al., I re-imagined the timelines and recreated them in a style reminiscent of the client in question, whether their style err toward corporate, academic or practical.
+Results
+todo
+Skills
+Ai
+Random fact
+The style chosen for the first project at Strativity was "Airline safety card retro".
+
+The Iconic
+Problem
+The Iconic is a e-fashion start-up with rapid growth. Their head office is a gutted floor of a concrete building with four tarpaulins forming the photo studio. It is very much a trial-and-error project, which initially led to confusion amongst the fresh-faced customer service team.
+Solution
+I assisted Maree, a business analyst, in publishing five internal training documents and rolling out a new CRM system across the department.
+Results
+todo
+Skills
+Word UX
+Random fact
+I illustrated the documents using SimpleDiagram, a wire-framing application purchased for $25, instead of Illustrator CS6 for $684, thus allowing an extra $659 contribution toward our Friday night drinks.
+
+My Fab
+Problem
+Myfab.com sells furniture to the French. The furniture is made in China and the buyer never sees it before their purchase arrives by courier. But would you buy a chair without sitting on it first, mon ami?
+Solution
+Buyers had to get excited about the product via the web site alone. I spoke with product managers and we created for each item a larger aesthetic, a personality, a story.
+Results
+todo
+Skills
+Ps Art direction
+Random fact
+My co-workers were 40% French, 40% Chinese and 20% miscellaneous stranded foreigners. I was the sole Australian.
+
+Anne Wilson
+Problem
+Anne is an actress, not a corporation. As such, she wears many hats both on- and off-stage. For her self-directed and acted one-woman cabaret, she required promotional collateral: one more hat to worry about.
+Solution
+I created an A3 poster and new business card for Anne, and assisted in adding some videos to her online show reel.
+Results
+Skills
+Ps Ai html5
+Random fact
+
+PwC
+Problem
+Sydney's PwC office is glittering tower overlooking Darling Harbour, a short walk from similarly megalithic firms Ernst and Young, KPMG, Macquarie Bank and CBA. How does such a company train its consultants to remain competitive in the face of such competition, especially when attempting to transfer such ineffable talents as leadership?
+Solution
+I designed a collection of 'tarot cards' for an internal leadership training program. Each card had a corporate value on one side and a related affirmation on the other.
+Results
+Skills
+PPT
+Random fact
+I was requested to edit the card for 'friendship', showing a clinking of beer pints, to a non-alcoholic version. This amused me considering the magnitude of our Christmas party.
+
+More work [shots]
+
+Skills
+
+Art
+Ps ***
+Ai ****
+Id **
+
+Development
+html5 ***
+css ***
+js ***
+
+DTP
+Word *****
+PowerPoint *****
+Excel **
+
+Meta
+Software testing ***
+Business analysis **
+UX design *
+Gamification *
+Art direction **
+Copywriting *
+
+* Learning
+** proficient
+*** mid-weight
+**** expert
+***** master
+
+Contact
+
+codepen
+twitter
+dribbble
+
+Thoughts? Questions? Poetry?
+
+Name
+email
+Message
+Send
+
